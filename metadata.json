@@ -1,0 +1,6 @@
+{
+  "name": "Cloud Monitoring",
+  "description": "Unified multi-cloud observability, SRE diagnostics, cost management, and compliance platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
